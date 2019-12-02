@@ -20,7 +20,7 @@ spec:
       description: "running program's operating system target"
       default: linux
     - name: GOARCH
-      description: "running program's architecture target"
+      description: "running program's architecture"
       default: amd64
     - name: GO111MODULE
       description: "value of module support"
