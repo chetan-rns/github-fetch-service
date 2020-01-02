@@ -3,7 +3,7 @@ kind: Pipeline
 metadata:
   name: marketplace-pipeline
 spec:
-  resources:
+resources:
   - name: git-input
     type: git
   - name: image-output
