@@ -7,7 +7,7 @@ spec:
     resources:
       - name: source
         type: git
-    params:
+    param:
       - name: MINOR_VERSION
         description: The minor version of the php
         default: '2'
