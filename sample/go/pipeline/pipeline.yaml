@@ -32,4 +32,4 @@ spec:
       value:
         - rollout
         - latest
-        - quay.io/cbanavik/test:latest 
+        - quay.io/cbanavik/test:latest
