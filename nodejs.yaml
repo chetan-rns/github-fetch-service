@@ -8,7 +8,7 @@ spec:
       - name: source
         type: git
     params:
-      - name: VERSION
+      - name: VERSI
         description: The version of the nodejs
         default: '8'
         type: string
